@@ -1,6 +1,6 @@
 # ViralReel AI Webinar Replay: How It Took Me from Burnout to Autopilot
 
-The ViralReel AI Webinar Replay was the turning point for me. I was completely burnt out trying to grow my Instagram and TikTok channels, spending all my time editing with zero results. For anyone new to it, ViralReel AI is an incredible tool that uses AI to create and post faceless videos for you. You just give it a keyword, and it handles the rest. Watching the creator's walkthrough in this webinar was a lightbulb moment. Now, my channels are finally growing, and it's all on autopilot.
+The [ViralReel AI Webinar Replay](https://github.com/its-sifat-ahmed/viralreel-ai-webinar-replay-my-story-of-going-from-burnout-to-autopilot) was the turning point for me. I was completely burnt out trying to grow my Instagram and TikTok channels, spending all my time editing with zero results. For anyone new to it, ViralReel AI is an incredible tool that uses AI to create and post faceless videos for you. You just give it a keyword, and it handles the rest. Watching the creator's walkthrough in this webinar was a lightbulb moment. Now, my channels are finally growing, and it's all on autopilot.
 
 [![Watch the video](https://img.youtube.com/vi/mqIDSXv5lXQ/maxresdefault.jpg)](https://youtu.be/mqIDSXv5lXQ)
 
